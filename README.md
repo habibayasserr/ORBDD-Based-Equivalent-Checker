@@ -1,6 +1,6 @@
 # ROBDD-Based-Equivalent-Checker
 
-We were asked to design EC based on ORBDD, the input is 2 Boolean
+We were asked to design EC based on ROBDD, the input is 2 Boolean
 functions and the output is ROBDD with Equivalent or Non Equivalent Results.
 
 • The project includes:
